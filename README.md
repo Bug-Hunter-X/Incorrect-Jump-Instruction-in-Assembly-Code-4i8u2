@@ -1,0 +1,2 @@
+# Incorrect Jump Instruction in Assembly Code
+This repository demonstrates a common error in assembly programming involving the misuse of jump instructions, leading to unexpected program behavior.  The `bug.asm` file contains code with an incorrect jump, resulting in an unexpected value in the `ebx` register. The corrected code is provided in `bugSolution.asm`.
